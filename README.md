@@ -1,4 +1,4 @@
-# Physics_Simulator
+# Physics-Simulator
 This is a program that was created by Soham More.
 A C++ Program That aims to simulate entire physics(Currenty Simulating Newton's law of Gravity, Coulomb's Law, Magnetism).
 
